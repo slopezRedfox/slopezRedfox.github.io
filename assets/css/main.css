@@ -193,7 +193,7 @@ body,
 input,
 select,
 textarea {
-  color: #a2a2a2;
+  color: #383434a6;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 16pt;
   font-weight: 400;
@@ -237,7 +237,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #787878;
+  color: #180a0af8;
   font-weight: 400;
   line-height: 1em;
   margin: 0 0 1em 0;
@@ -1859,7 +1859,7 @@ article.special {
 }
 
 header p {
-  color: #b2b2b2;
+  color: #353232;
   position: relative;
   margin: 0 0 1.5em 0;
 }
@@ -1911,7 +1911,7 @@ textarea {
   -webkit-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  background: #f7f7f7;
+  background: #9990906b;
   border-radius: 0.35em;
   border: solid 2px transparent;
   color: inherit;
@@ -2644,9 +2644,9 @@ input[type="button"].disabled,
 input[type="button"]:disabled,
 .button.disabled,
 .button:disabled {
-  background-color: #e7e7e7 !important;
-  border-color: #e7e7e7 !important;
-  color: #b2b2b2 !important;
+  background-color: #b2b2b2a6 !important;
+  border-color: #b2b2b2a6 !important;
+  color: #b2b2b2a6 !important;
   cursor: default;
 }
 
